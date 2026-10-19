@@ -1,6 +1,7 @@
 <div align="center">
 
-🌱 **UNDER CONSTRUCTION** 🌱
+**UNDER CONSTRUCTION** 
+** UI under construction.
 
 `✨ Coming along nicely.... ✨`
 
